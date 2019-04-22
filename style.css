@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    font-size: 15px;
+    line-height: 1.6;
+    clor: #333;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: border-box; 
+}
+
+h1,h2,h3,h4,h5 {
+    margin: 0;
+}
+.conteiner {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto ;
+}
+
+.intro {
+    width: 100%;
+    height: 100vh;
+    background: url("../images/intro.jpg") center no-repeat;
+    background-size: cover;
+    background-size: cover;
+}
